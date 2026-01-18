@@ -43,6 +43,8 @@ public class variable_decleration{
 boolean isitJAVA = true;
 System.out.println(isitJAVA);
 
+String Name = " IS it printed successfully after true ";
+System.out.println(Name);
 
 
 }
