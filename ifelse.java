@@ -145,7 +145,7 @@ public class ifelse{
 
     }
 }
-     */
+ 
 
 
 /*7️⃣ Grade Calculator
@@ -157,6 +157,8 @@ public class ifelse{
 60–74 → C
 
 < 60 → Fail */
+
+/*
 import java.util.Scanner;
 public class ifelse{
     public static void main(String[] args) {
@@ -184,3 +186,6 @@ public class ifelse{
         }
     }
 }
+
+*/
+
